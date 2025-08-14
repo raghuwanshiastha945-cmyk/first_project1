@@ -1,2 +1,3 @@
 # first_project1
-This is my first Git Repository
+This is my first Git Repository.
+Author - Astha Raghuwanshi
